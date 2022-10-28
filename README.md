@@ -48,3 +48,8 @@ Selected maid will pick and upload a picture of his ID card
 
 The client can view the uploaded ID picture,cross-check and message the ID owner
 ![view ID card](https://user-images.githubusercontent.com/94973730/198621505-477a1761-fc9b-46b3-982a-c08d7b4f47d9.jpg)
+
+**********************************************************************************************
+                          ----------------------------------
+**********************************************************************************************
+The mobile app also has the ADMIN section where the aministrator can, see,maintain the system's progress or delete a user from the system 
