@@ -42,3 +42,6 @@ Selected maid(s) will receive a notification
 
 Maid(s) gets the notification from the intrested client. He can email the client directly or accept the shortlisting by attaching a picture of his original National ID card
 ![view shortlisting](https://user-images.githubusercontent.com/94973730/198618553-15bd0359-db5a-4278-8f88-b6681957fa1a.jpg)
+
+Selected maid will pick and upload a picture of his ID card
+![attach ID](https://user-images.githubusercontent.com/94973730/198620401-3031b0bd-0f0a-4bb4-8d5f-302d0ab7b5bb.jpg)
