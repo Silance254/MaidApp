@@ -33,3 +33,6 @@ Successful Post(Maid waits for shortlisting)
 
 Client can choose a maid of thei choice (basing on their age,experince and distance i.e All/10km/20km/30km/40km [they can also see the specific distance of a maid from their current location]) NB- Once a maid is picked he's rendered unavailable!
 ![Client view](https://user-images.githubusercontent.com/94973730/198611757-8a4f1be4-f47c-422e-9194-488a248762ee.jpg)
+
+Once a client has selected a maid of their choice; they can cancel or retain a maid. And wait for the selected maid's response(maid will receive a notification)
+![selected maid](https://user-images.githubusercontent.com/94973730/198614862-981c756c-8a3e-4bde-82bd-53558625bf94.jpg)
