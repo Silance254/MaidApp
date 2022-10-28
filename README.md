@@ -27,3 +27,7 @@ Any User signing up to configure their location
 
 A user can Edit his/her profile (change photo,location,name)
 ![Edit profile](https://user-images.githubusercontent.com/94973730/198608549-4fd06199-b211-491b-ac39-d959c4f4403c.jpg)
+
+Successful Post(Maid waits for shortlisting)
+![maid signed](https://user-images.githubusercontent.com/94973730/198610135-28479e80-3c4c-408a-901a-9faede91283f.jpg)
+
