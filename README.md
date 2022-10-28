@@ -24,3 +24,6 @@ Maid's Personal details form
 
 Any User signing up to configure their location
 ![location](https://user-images.githubusercontent.com/94973730/198607322-47fa19f6-1230-4829-9624-f10d9560e0cb.jpg)
+
+A user can Edit his/her profile (change photo,location,name)
+![Edit profile](https://user-images.githubusercontent.com/94973730/198608549-4fd06199-b211-491b-ac39-d959c4f4403c.jpg)
