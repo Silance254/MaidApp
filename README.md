@@ -45,3 +45,6 @@ Maid(s) gets the notification from the intrested client. He can email the client
 
 Selected maid will pick and upload a picture of his ID card
 ![attach ID](https://user-images.githubusercontent.com/94973730/198620401-3031b0bd-0f0a-4bb4-8d5f-302d0ab7b5bb.jpg)
+
+The client can view the uploaded ID picture,cross-check and message the ID owner
+![view ID card](https://user-images.githubusercontent.com/94973730/198621505-477a1761-fc9b-46b3-982a-c08d7b4f47d9.jpg)
