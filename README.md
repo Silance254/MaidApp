@@ -14,5 +14,10 @@ Login form
 Reset Password
 ![Reset password](https://user-images.githubusercontent.com/94973730/198602818-4125e61c-8fac-4005-b487-e76c57cf7f8a.jpg)
 
+
+Maid is Prompted to post their Personal details
+![maid to fill](https://user-images.githubusercontent.com/94973730/198604642-e66073fb-576a-4036-9d85-aa3010c703a7.jpg)
+
+
 Maid's Personal details form
 ![Maid details form](https://user-images.githubusercontent.com/94973730/198603509-2da17056-5b79-4a31-bac3-ae3920ee14df.jpg)
