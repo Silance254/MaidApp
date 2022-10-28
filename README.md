@@ -31,3 +31,5 @@ A user can Edit his/her profile (change photo,location,name)
 Successful Post(Maid waits for shortlisting)
 ![maid signed](https://user-images.githubusercontent.com/94973730/198610135-28479e80-3c4c-408a-901a-9faede91283f.jpg)
 
+Client can choose a maid of thei choice (basing on their age,experince and distance i.e All/10km/20km/30km/40km [they can also see the specific distance of a maid from their current location])
+![Client view](https://user-images.githubusercontent.com/94973730/198611757-8a4f1be4-f47c-422e-9194-488a248762ee.jpg)
