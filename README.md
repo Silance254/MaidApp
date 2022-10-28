@@ -36,3 +36,6 @@ Client can choose a maid of thei choice (basing on their age,experince and dista
 
 Once a client has selected a maid of their choice; they can cancel or retain a maid. And wait for the selected maid's response(maid will receive a notification)
 ![selected maid](https://user-images.githubusercontent.com/94973730/198614862-981c756c-8a3e-4bde-82bd-53558625bf94.jpg)
+
+Selected maid(s) will receive a notification 
+![notification](https://user-images.githubusercontent.com/94973730/198617578-a01c15b8-a3f9-4fd4-a9af-449ede10b324.jpg)
