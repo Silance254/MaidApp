@@ -13,3 +13,6 @@ Login form
 
 Reset Password
 ![Reset password](https://user-images.githubusercontent.com/94973730/198602818-4125e61c-8fac-4005-b487-e76c57cf7f8a.jpg)
+
+Maid's Personal details form
+![Maid details form](https://user-images.githubusercontent.com/94973730/198603509-2da17056-5b79-4a31-bac3-ae3920ee14df.jpg)
