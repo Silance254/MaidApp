@@ -21,3 +21,6 @@ Maid is Prompted to post their Personal details
 
 Maid's Personal details form
 ![Maid details form](https://user-images.githubusercontent.com/94973730/198603509-2da17056-5b79-4a31-bac3-ae3920ee14df.jpg)
+
+Any User signing up to configure their location
+![location](https://user-images.githubusercontent.com/94973730/198607322-47fa19f6-1230-4829-9624-f10d9560e0cb.jpg)
