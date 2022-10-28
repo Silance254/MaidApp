@@ -10,3 +10,6 @@ Here's the sign-up form
 
 Login form
 ![login](https://user-images.githubusercontent.com/94973730/198601987-691f2a1b-daad-4013-a5a2-163a84198a2c.jpg)
+
+Reset Password
+![Reset password](https://user-images.githubusercontent.com/94973730/198602818-4125e61c-8fac-4005-b487-e76c57cf7f8a.jpg)
