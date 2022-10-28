@@ -39,3 +39,6 @@ Once a client has selected a maid of their choice; they can cancel or retain a m
 
 Selected maid(s) will receive a notification 
 ![notification](https://user-images.githubusercontent.com/94973730/198617578-a01c15b8-a3f9-4fd4-a9af-449ede10b324.jpg)
+
+Maid(s) gets the notification from the intrested client. He can email the client directly or accept the shortlisting by attaching a picture of his original National ID card
+![view shortlisting](https://user-images.githubusercontent.com/94973730/198618553-15bd0359-db5a-4278-8f88-b6681957fa1a.jpg)
