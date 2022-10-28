@@ -31,7 +31,7 @@ A user can Edit his/her profile (change photo,location,name)
 Successful Post(Maid waits for shortlisting)
 ![maid signed](https://user-images.githubusercontent.com/94973730/198610135-28479e80-3c4c-408a-901a-9faede91283f.jpg)
 
-Client can choose a maid of thei choice (basing on their age,experince and distance i.e All/10km/20km/30km/40km [they can also see the specific distance of a maid from their current location]) NB- Once a maid is picked he's rendered unavailable!
+Client can choose a maid of their choice (basing on their age,experince and distance i.e All/10km/20km/30km/40km [they can also see the specific distance of a maid from their current location]) NB- Once a maid is picked he's rendered unavailable!
 ![Client view](https://user-images.githubusercontent.com/94973730/198611757-8a4f1be4-f47c-422e-9194-488a248762ee.jpg)
 
 Once a client has selected a maid of their choice; they can cancel or retain a maid. And wait for the selected maid's response(maid will receive a notification)
@@ -53,3 +53,4 @@ The client can view the uploaded ID picture,cross-check and message the ID owner
                           ----------------------------------
 **********************************************************************************************
 The mobile app also has the ADMIN section where the aministrator can, see,maintain the system's progress or delete a user from the system 
+![admin](https://user-images.githubusercontent.com/94973730/198711223-9d186bd9-e8ae-4aad-a0e9-314b67194956.jpg)
